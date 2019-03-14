@@ -7,4 +7,4 @@ With the proposed device, we collected different signal data with unknown types 
 * First approach: naive-bayes generative modeling with bivariate guassian models.
 * Second approach: Bayesian unsupervised learning: Guassian Mixed models.
 * Third approach: K-means algorithm
-* Four approach: Deep neural network from scratch
+* Four approach: Deep neural network by pytorch
